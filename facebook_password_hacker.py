@@ -48,7 +48,7 @@ login_button = driver.find_element(By.NAME,"login")
 time.sleep(1)
 login_button.click()
 
-a_file = open('D:/nihereeka/password.txt', "r")
+a_file = open('password.txt', "r")
 list_of_lists = []
 
 attempts = 0

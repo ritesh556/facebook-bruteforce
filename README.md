@@ -3,21 +3,21 @@ Facebook-BruteForce using multithreading
 Bruteforce attack, For educational purpose only
 
 
-Install Requirements (on Linux)
+Install Requirements (on Linux):
 
-apt-get install git python3 python3-pip python python-pip
-
-
-Run commands one by one
+    apt-get install git python3 python3-pip python python-pip
 
 
-git clone https://github.com/ritesh556/facebook-bruteforce
+    Run commands one by one
 
 
-cd Facebook-BruteForce
+    git clone https://github.com/ritesh556/facebook-bruteforce
 
 
-python3 -m pip install selenium
+    cd Facebook-BruteForce
+
+
+    python3 -m pip install selenium
 
 
 Note:

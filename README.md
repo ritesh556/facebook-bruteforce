@@ -12,7 +12,10 @@ Run commands one by one
 >> cd Facebook-BruteForce
 >> python3 -m pip install selenium
 Note:
-    you should give the location where you install the driver
+    you should give the path where you install the driver.
+    You should enter worldlist in every txt file
+    Dont use it to  gain unauthorized access to someone else's Facebook account.It account is illegal and prohibited by the company's terms of service. Additionally, using brute force attacks to gain unauthorized access to any online account is unethical and may cause harm to the targeted individual or organization.
+    
 >> python3 fb.py or python fbhacktext.py
 
 

@@ -36,7 +36,7 @@ options.add_argument('--headless')
 # print('\033[1;31m' + '######made for education purpose only######' + '\033[0m')
 # print('\033[1;33m' + '....................................................................................................................................................................' + '\033[0m')
 def hacker1(input):
-    driver = Firefox(executable_path='D:/New folder(3)')#GIVE PATH
+    driver = Firefox(executable_path='D:/New folder(3)')#GIVE PATH  newdriver = Firefox(executable_path='D:/New folder(3)',options = options) if you want to use it in background
     driver.get("https://www.facebook.com/login")
     # email_element = driver.find_element(By.ID,'email')
     

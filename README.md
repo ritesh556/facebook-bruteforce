@@ -27,8 +27,9 @@ Note:
     You should enter worldlist in every txt file
     
     Dont use it to  gain unauthorized access to someone else's Facebook account.It account is illegal and prohibited by the company's terms of service. Additionally, using brute force attacks to gain unauthorized access to any online account is unethical and may cause harm to the targeted individual or organization.
-    
->> python3 fb.py or python fbhacktext.py
+
+TO RUN:
+    python3 fb.py or python fbhacktext.py
 
 
 Protection Against Attacker
@@ -39,4 +40,4 @@ Protection Against Attacker
 
 
 
-*************************HAve a nice day****************
+                        *************************HAve a nice day************************

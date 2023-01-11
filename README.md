@@ -28,7 +28,7 @@ Note:
     
     Dont use it to  gain unauthorized access to someone else's Facebook account.It account is illegal and prohibited by the company's terms of service. Additionally, using brute force attacks to gain unauthorized access to any online account is unethical and may cause harm to the targeted individual or organization.
 
-TO RUN:
+TORUN:
     python3 facebook_password_hacker.py or python fbhacktext.py
 
 

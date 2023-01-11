@@ -1,6 +1,6 @@
-<big>Facebook-BruteForce using multithreading<big>
+#Facebook-BruteForce using multithreading
 
-######Bruteforce attack, For educational purpose only
+##Bruteforce attack, For educational purpose only
 
 
 Install Requirements (on Linux):
